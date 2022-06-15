@@ -1,4 +1,4 @@
-# Maratona_Explorer
+# Maratona-Explorer
 #Maratona-Explorer; #Rocketseat
 
 # HTML
