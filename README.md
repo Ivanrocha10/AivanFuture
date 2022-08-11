@@ -7,7 +7,6 @@
 <hr>
 <p>Segue abaixo as resposta que vc possivelmente irá receber:</p>
 
-
 <ul>
   <li>"Certeza!",
   <li>"Não tenho tanta certeza.",
@@ -29,3 +28,9 @@
   <li>"Concentre-se e pergunte novamente.",
   <li>"Sinais apontam que sim.",
 <ul>
+
+<hr>
+<p>Deseja descobrir seu futuro? Apenas aponte a câmera do seu celular para o QR logo abaixo:</p>
+<img src="https://user-images.githubusercontent.com/104407334/184103338-ebe9d99c-b458-45a7-a463-819655ee0133.png" alt="QR do Destino">
+<p> Caso o QR não funcione, acesse <a href="">aqui</a>
+
