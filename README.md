@@ -1,4 +1,4 @@
-# Destino
+# AivanFuture
 
 O projeto AivanFuture, teve seu início a partir do evento fornecido pela rocketseat, a primeira "Maratona Explorer 1.0"
 
