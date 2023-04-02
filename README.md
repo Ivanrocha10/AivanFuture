@@ -1,8 +1,8 @@
 # Destino
 
-O projeto Destino, teve seu início a partir do evento fornecido pela rocketseat, a primeira "Maratona Explorer 1.0"
+O projeto AivanFuture, teve seu início a partir do evento fornecido pela rocketseat, a primeira "Maratona Explorer 1.0"
 
-Destino foi criado com o objetivo de "diversão", para alegrar ou iludir seu dia. Tendo a opção de fazer uma pergunta, o cliente tem a possibilidade de receber várias respostas, exemplo: sim, talvez, não, conte com isso, etc...
+AivanFuture foi criado com o objetivo de "diversão", para alegrar ou iludir seu dia. Tendo a opção de fazer uma pergunta, o cliente tem a possibilidade de receber várias respostas, exemplo: sim, talvez, não, conte com isso, etc...
 
 ## Respostas
 
@@ -61,9 +61,9 @@ Se você tiver algum feedback, por favor enviar para ivan.rocha.0987@gmail.com
 ## Projeto
 
 <p>
-  Acesse o "Destino" pelo QR:
+  Acesse o "AivanFuture" pelo QR:
 </p>
   <img src="./assets/qrcode.png/" alt="qrcode" class="capa">
 
-Caso o QR não funcione, acesse <a href="https://ivanrocha10.github.io/Destino/">aqui</a>
+Caso o QR não funcione, acesse <a href="https://ivanrocha10.github.io/AivanFuture/">aqui</a>
 
