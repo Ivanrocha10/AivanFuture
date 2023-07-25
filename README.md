@@ -4,6 +4,10 @@ O projeto AivanFuture, teve seu início a partir do evento fornecido pela rocket
 
 AivanFuture foi criado com o objetivo de "diversão", para alegrar ou iludir seu dia. Tendo a opção de fazer uma pergunta, o cliente tem a possibilidade de receber várias respostas, exemplo: sim, talvez, não, conte com isso, etc...
 
+## Demonstração
+
+![App Screenshot](./assets/AivanFuture.gif)
+
 ## Respostas
 
 <li>"Certeza!",
@@ -25,11 +29,6 @@ AivanFuture foi criado com o objetivo de "diversão", para alegrar ou iludir seu
 <li>"Sim.",
 <li>"Concentre-se e pergunte novamente.",
 <li>"Sinais apontam que sim.",
-
-## Demonstração
-
-![App Screenshot](./assets/capa.jpg)
-
 
 ## 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
