@@ -2,9 +2,9 @@
 
 AivanFuture: uma jornada marcante. Falar sobre este projeto é um desafio, pois AivanFuture representa um marco significativo em minha trajetória. Ele não só marcou meus primeiros passos na web com as principais tecnologias (HTML, CSS e JS), como também permanece como o projeto mais impactante até hoje, apesar de já ter compartilhado 26 projetos em meu repositório no GitHub.
 
-No entanto, vamos além dos números. A história do AivanFuture começa com um evento marcante: a primeira "Maratona Explorer 1.0", gentilmente promovida pela Rocketseat. Foi nesse contexto inspirador que AivanFuture tomou forma.
+No entanto, vamos além do passado. A história do AivanFuture começa com um evento marcante: a primeira "Maratona Explorer 1.0", gentilmente promovida pela Rocketseat. Foi nesse contexto inspirador que AivanFuture tomou forma.
 
-O propósito subjacente à criação do AivanFuture era simples: espalhar diversão e trazer um toque de ilusão ao cotidiano. A funcionalidade básica envolvia permitir que os usuários fizessem perguntas, com a promessa de respostas variadas, como "sim", "talvez", "não", "conte com isso" e muito mais. Esse aspecto lúdico proporcionava um espaço para brincadeira e descontração.
+O propósito subjacente à criação do AivanFuture é bem simples: espalhar diversão e trazer um toque de ilusão ao cotidiano. A funcionalidade básica envolvia permitir que os usuários façam perguntas, com a promessa de respostas variadas, como "sim", "talvez", "não", "conte com isso" e muito mais. Esse aspecto lúdico proporciona um espaço para brincadeira e descontração.
 
 AivanFuture é mais do que um projeto; é um testemunho da minha evolução. Representa a habilidade de transformar conceitos técnicos em algo envolvente e interativo. Um pequeno fragmento da minha jornada que sempre traz um sorriso quando olho para trás.
 
@@ -12,24 +12,24 @@ AivanFuture é mais do que um projeto; é um testemunho da minha evolução. Rep
 
 Algumas das respostas icônicas que ele proporcionava incluíam:
 
-"Certeza!"
-"Não tenho tanta certeza."
-"É decididamente assim."
-"Não conte com isso."
-"Sem dúvidas!"
-"Pergunte novamente mais tarde."
-"Sim, definitivamente!"
-"Minha resposta é não."
-"Você pode contar com isso."
-"Melhor não te dizer agora."
-"A meu ver, sim."
-"Minhas fontes dizem não."
-"Provavelmente."
-"Não é possível prever agora."
-"Perspectiva boa."
-"As perspectivas não são tão boas."
-"Sim."
-"Concentre-se e pergunte novamente."
+"Certeza!" <br>
+"Não tenho tanta certeza." <br>
+"É decididamente assim." <br>
+"Não conte com isso." <br>
+"Sem dúvidas!" <br>
+"Pergunte novamente mais tarde." <br>
+"Sim, definitivamente!" <br>
+"Minha resposta é não." <br>
+"Você pode contar com isso." <br>
+"Melhor não te dizer agora." <br>
+"A meu ver, sim." <br>
+"Minhas fontes dizem não." <br>
+"Provavelmente." <br>
+"Não é possível prever agora." <br>
+"Perspectiva boa." <br>
+"As perspectivas não são tão boas." <br>
+"Sim." <br>
+"Concentre-se e pergunte novamente." <br>
 "Sinais apontam que sim."
 
 
